@@ -1,0 +1,40 @@
+container-one {
+    width: 800 px;
+    height:200 px;
+    border: 1 px solid black;
+    }
+
+inner-one {
+    width: 50%;
+    color: green;
+    border: 1 px solid black;
+}
+
+inner-two {
+    color: blue;
+    border: 1 px solid black;
+}
+
+container-two {
+    width: 800 px;
+    height: 300 px;
+    border: 1 px solid black;
+}
+
+inner-one {
+    width: 33.3%;
+    color: grey;
+    border: 1 px solid black;
+}
+
+inner-two {
+    width: 33.3%;
+    color: black;
+    border: 1 px solid black;
+}
+
+inner-three {
+    width: 33.3;
+    color: orange;
+    border: 1 px solid black;
+}
