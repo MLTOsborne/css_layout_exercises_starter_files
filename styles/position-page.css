@@ -1,1 +1,65 @@
 
+.nav {
+  padding-top: 10px;
+  padding:60px;
+  border: 1px solid black;
+  text-align: left;
+  position: relative;
+  height: 50px;
+  background-color: grey;
+}
+
+.logo {
+padding: 10px;
+position: absolute;
+left: 30px;
+}
+
+
+img.bg {
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+  .box
+{
+    border: 10px green dotted;
+    width: 600px;
+    height: 300px;
+    position: fixed;
+    left: 250px;
+    }
+
+
+   .img.cat
+{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    }
+
+    #borderimg {
+        border-image-source: https://raw.githubusercontent.com/MLTOsborne/css_layout_exercises_starter_files/master/images/spacecat.png;
+        border-image-outset: 100px;
+    }
+
+    .img.dog
+     {
+        width: 200px;
+        height: 200px;
+        position: absolute;
+        right: 100px;
+        bottom: 100px;
+        }
+
+     #borderimg {
+        border-image-source: https://raw.githubusercontent.com/MLTOsborne/css_layout_exercises_starter_files/master/images/spacecat.png;
+        border-image-outset: 100px; https://github.com/MLTOsborne/css_layout_exercises_starter_files/blob/master/images/spacedog.png;
+        }
